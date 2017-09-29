@@ -124,6 +124,8 @@ footer {
     background-color: black;
     color: rgb(204,204,204);
     clear: both;
+    position: absolute;
+    bottom: 0;	
 }
 
 nav ul, header h1, footer p, .contentWrapper {
